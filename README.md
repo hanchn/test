@@ -7,6 +7,7 @@
 ```
 # 安装依赖包
 $ npm install
+
 # 通过本地服务启动项目      
 npm run dev
 
