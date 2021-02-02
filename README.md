@@ -28,6 +28,6 @@ npm run doc
 |--test3
 |--traverse-tree.js
 ``` 
-#### 作者 
-#### 许可证ISC
+#### 作者 HanChn
+#### 许可证 ISC
     
