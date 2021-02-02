@@ -40,7 +40,7 @@ npm run doc / yarn doc
 |--test3
 |--traverse-tree.js
 ``` 
-## 模块依赖
+## 🌍 模块依赖
 #### 开发环境
 ```
 jquery: ^3.5.1
