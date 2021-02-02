@@ -3,8 +3,12 @@
 项目版本1.0.0
 ### 项目描述
 静安寺的骄傲的少年静安寺加德纳加快速度那就是电脑即可拿手机的拿手机可能
-# 构建步骤/n
-```npm run test/necho "Error: no test specified" && exit 1/n,npm run doc/nnode export-doc.js/n```
+# 构建步骤
+```
+npm run test
+npm run doc
+
+```
 # 项目结构
 
  ```
