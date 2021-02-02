@@ -1,4 +1,7 @@
 
+<div style="width: 100%; height: 200px; background: #000; margin-bottom: 20px;">
+  <img src="http://www.kapeixi.cn/image/LOGO@2x.png">
+</div>        
 # export-directory
 当前项目版本为1.0.0
 ### 项目简介
