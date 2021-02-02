@@ -2,7 +2,7 @@
 # export-directory
 当前项目版本为1.0.0
 ### 项目简介
-静安寺的骄傲的少年静安寺加德纳加快速度那就是电脑即可拿手机的拿手机可能
+cupsheMarket pc、m端代码，根据屏幕宽度以及终端类型自动切换。 技术栈介绍： 1、ssr：Nuxt.js 2、client: Vue全家桶 3、style： node-sass、element-ui 按需加载 4、代码规范：eslint + prettier 5、国际化：vue-i18n 5、动画插件 vue-awesome-swiper 轮播插件（根据需求可更换）
 ## 构建步骤
 ```
 # 安装依赖包
@@ -64,7 +64,7 @@ http://www.baidu.com
 http://www.baidu.com
 #### 线上地址      
 http://www.baidu.com
-## 作者及版权归属
+## 作者及版权信息
 #### 作者 HanChn
 #### 许可证 ISC
     
