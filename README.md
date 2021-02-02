@@ -75,8 +75,8 @@ http://www.baidu.com
 http://www.baidu.com
 #### 线上地址      
 http://www.baidu.com
-## 🤝 项目成员及版权信息
+## 🤝 项目成员及版权
 #### 协作成员 
 前端：袁晶，刘秀，测试：金茂成，开发：XX
-#### 版权许可证 ISC
+#### license - ISC
     
