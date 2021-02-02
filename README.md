@@ -7,10 +7,13 @@
 ```
 # 通过本地服务      
 npm run dev
+
 # 打包项目至测试环境      
 npm run test
+
 # 自动生成项目文档      
 npm run doc
+
 ```
 # 项目结构
 
