@@ -22,22 +22,22 @@ npm run doc / yarn doc
 ## ⚙️ 项目结构
 
  ```
-|--.DS_Store
-|--.git
-|--README.md
-|--aaa.html
-|--directory.md
-|--export-README.js
-|--node_modules
-|--package-lock.json
-|--package.json
-|--test
-|----aaa
-|------bbb.js
-|----index.js
-|--test2
-|--test3
-|--traverse-tree.js
+|-- .DS_Store
+|-- .git
+|-- README.md
+|-- aaa.html
+|-- directory.md
+|-- export-README.js
+|-- node_modules
+|-- package-lock.json
+|-- package.json
+|-- test
+|---- aaa
+|------ bbb.js
+|---- index.js
+|-- test2
+|-- test3
+|-- traverse-tree.js
 ``` 
 ## 🌍 模块依赖
 #### 开发环境
