@@ -27,8 +27,7 @@ npm run doc / yarn doc
 |--README.md
 |--aaa.html
 |--directory.md
-|--export-doc.js
-|--export-readme.js
+|--export-README.js
 |--node_modules
 |--package-lock.json
 |--package.json
