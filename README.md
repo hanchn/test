@@ -28,6 +28,7 @@ npm run doc / yarn doc
 |-- aaa.html
 |-- directory.md
 |-- export-README.js
+|-- main.js
 |-- node_modules
 |-- package-lock.json
 |-- package.json
@@ -38,6 +39,13 @@ npm run doc / yarn doc
 |-- test2
 |-- test3
 |-- traverse-tree.js
+``` 
+## ⚙️ 代码示例
+
+ ```
+function a() {
+    console.log('test')
+}
 ``` 
 ## 🌍 模块依赖
 #### 开发环境
