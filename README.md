@@ -1,5 +1,5 @@
 
-# 🌈 automatic-document-generation
+# 🎨 automatic-document-generation
 当前项目版本为1.0.0
 
 ### ✨ 项目简介
@@ -79,6 +79,6 @@ http://www.baidu.com
 #### 协作成员 
 前端：袁晶，刘秀，测试：金茂成，开发：XX
 #### 版权许可 ISC
-#### 注意事项
+#### 🌈 注意事项
 该文档由脚本自动生成，每次启动项目时均会自动更新，请勿手动修改！
     
