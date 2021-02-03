@@ -1,4 +1,6 @@
 
+<img src="https://cs-oss-release.oss-cn-hangzhou.aliyuncs.com/product/20210203/84ce36e306ca4a3b8589aa0c7ca3a56c.png" width="100%"> 
+    
 # 🎨 automatic-document-generation
 当前项目版本为1.0.0
 
@@ -27,7 +29,7 @@ npm run doc / yarn doc
 |-- README.md
 |-- aaa.html
 |-- directory.md
-|-- export-README.js
+|-- export-readme.js
 |-- main.js
 |-- node_modules
 |-- package-lock.json
@@ -40,7 +42,7 @@ npm run doc / yarn doc
 |-- test3
 |-- traverse-tree.js
 ``` 
-## ⚙️ 代码示例
+## 🖥 代码示例
 
  ```
 function a() {
