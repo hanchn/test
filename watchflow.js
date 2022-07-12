@@ -20,6 +20,13 @@ handler.on('push', function(event) {
         event.payload.ref)
 })
 
+handler.on('commit', function(event) {
+    console.log(2222)
+    console.log('Received a push event for %s to %s',
+        event.payload.repository.name,
+        event.payload.ref)
+})
+
 handler.on('issues', function(event) {
     console.log('Received an issue event for %s action=%s: #%d %s',
         event.payload.repository.name,
