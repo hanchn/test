@@ -17,7 +17,7 @@ function RunCmd(cmd, args, cb) {
 http.createServer(function(req, res) {
     handler(req, res, function(err) {
         res.statusCode = 404;
-        res.end('no such location');
+        res.end('web hooks test');
     })
 }).listen(7777)
 
