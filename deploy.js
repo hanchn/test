@@ -1,6 +1,7 @@
-var http = require('http')
+const express = require('express')
 var createHandler = require('github-webhook-handler')
 var handler = createHandler({ path: '/hanchn/test', secret: '' })
+const app = express()
 
 function RunCmd(cmd, args, cb) {
     var spawn = require('child_process').spawn;
@@ -19,14 +20,19 @@ http.createServer(function(req, res) {
         res.statusCode = 404;
         res.end('web hooks test');
     })
-}).listen(7777)
+}).listen(89)
+
+
+app.all("/*", (req, res) => {
+    res.json({...req.body, title: 'Hello World !' })
+})
+
 
 handler.on('error', function(err) {
     console.error('Error:', err.message);
 })
 
 handler.on('push', function(event) {
-    console.log(1111)
     console.log('Received a push event for %s to %s',
         event.payload.repository.name,
         event.payload.ref);
@@ -43,3 +49,5 @@ handler.on('issues', function(event) {
         event.payload.issue.number,
         event.payload.issue.title);
 })
+
+app.listen(89)
