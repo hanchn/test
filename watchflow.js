@@ -5,7 +5,7 @@ var handler = createHandler({ path: '/test', secret: '123' })
 http.createServer(function(req, res) {
     handler(req, res, function(err) {
         res.statusCode = 404
-        res.end('no such location')
+        res.end('webhooks test !')
     })
 }).listen(7777)
 
