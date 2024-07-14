@@ -1,1 +1,23 @@
 aaa
+
+git flow 协作流 流程 
+
+10 开发 
+
+上线 
+
+分支 feature 
+
+主要 关键 分支 用来 生产 对用户 没有bug 功能完整 完善 
+
+特征分支 只有一个  
+
+main master 生产的开发 
+
+test 测试的分支 bug 虫子 
+
+pre 预发布 
+
+Branch 分支
+
+开发分支 无限个
